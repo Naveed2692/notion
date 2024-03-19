@@ -1,0 +1,31 @@
+li{
+    list-style: none;
+}
+select{
+  border: none;
+}
+.border1{
+    background-color: rgb(192, 71, 71);
+    width: fit-content;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 0 4px;
+}
+li>img{
+    width: 20px;
+}
+.trust{
+    font-size: 10px;
+}
+.imghom{
+    width: 80% !important;
+
+}
+.img-mr{
+    margin-top: 200px;
+}
+.position-right{
+    position: absolute;
+    right: 30px;
+}
